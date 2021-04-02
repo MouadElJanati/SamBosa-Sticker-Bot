@@ -20,11 +20,11 @@
     "process": "^0.11.10",
     "request": "^2.88.2",
     "stream": "^0.0.2",
-    "sharp": "^0.27.2"
+    "sharp": "^0.27.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ry2n711/SamBosa-Sticker-Bot.git"
+    "url": "git+https://github.com/MouadElJanati/SamBosa-Sticker-Bot.git"
   },
   "keywords": [
     "sambosabot",
@@ -34,8 +34,8 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ry2n711/SamBosa-Sticker-Bot/issues"
+    "url": "https://github.com/MouadElJanati/SamBosa-Sticker-Bot/issues"
   },
-  "homepage": "https://github.com/ry2n711/SamBosa-Sticker-Bot#readme",
-  "author": "ryan almalki"
+  "homepage": "https://github.com/MouadElJanati/SamBosa-Sticker-Bot#readme",
+  "author": "Mouad El Janati"
 }
