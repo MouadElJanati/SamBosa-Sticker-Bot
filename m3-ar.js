@@ -359,7 +359,7 @@ const convertSticker = function(shape, author, pack, mediaData, type) {
       "pack": pack,
       "author": author,
       "shape": shape,
-      "api_key": "JDJiJDEwJEtBMm0wUDRzRmZnZjFLSTFhTkdCT3VKTnN1dHouenh4VlVlUVVqcHlVMWk1SURnSnpUZjNl",
+      "api_key": "JDJiJDEwJDhldTdtMEMwenYvTWdEUmMxUHNPY3V0c3lVRUJ2UUJKLkwydzF2WS9tNFJuS1lTdHVXOGR1",
 // api_key تأخذه من موقع https://stickerman.org || سجل في الموقع للحصول عليه
     };
     var url = "https://stickerman.org/api/convert";
