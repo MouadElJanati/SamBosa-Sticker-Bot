@@ -20,7 +20,7 @@
     "process": "^0.11.10",
     "request": "^2.88.2",
     "stream": "^0.0.2",
-    "sharp": "^0.27.0"
+    
   },
   "repository": {
     "type": "git",
